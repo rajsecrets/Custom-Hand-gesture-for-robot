@@ -5,6 +5,12 @@ program that recognizes hand signs and finger gestures with a simple MLP using t
 <br> 
 ![mqlrf-s6x16](https://user-images.githubusercontent.com/37477845/102222442-c452cd00-3f26-11eb-93ec-c387c98231be.gif)
 
+![image](https://github.com/rajsecrets/Custom-Hand-gesture-for-robot/assets/131753845/7830ad6f-bd54-4864-a7d6-f16a56cb60a6)
+![image](https://github.com/rajsecrets/Custom-Hand-gesture-for-robot/assets/131753845/9a851d2f-19fb-4a1a-9344-6e4f3356ed58)
+![image](https://github.com/rajsecrets/Custom-Hand-gesture-for-robot/assets/131753845/6797588d-52de-48a6-b358-a3ccdc189f6c)
+
+
+
 This repository contains the following contents.
 * Sample program
 * Hand sign recognition model(TFLite)
